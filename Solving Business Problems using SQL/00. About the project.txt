@@ -1,0 +1,8 @@
+This is a project which gives insights on how to solve "Real World" business problems using SQL in MS SQL Server 2019.
+Dataset used in this project is Northwind database.
+	Northwind database is free sample databse which is used for databsaes related educational purposes.
+Tools sed for this project are:
+	1. Microsoft SQL Server 2019
+	2. Microsoft SQL Server Management Studio
+	3. Backup file of Northwind Database
+	3. Windows 10 (Operating System)
