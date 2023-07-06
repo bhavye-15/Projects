@@ -1,0 +1,7 @@
+Tableau Public Link: https://public.tableau.com/views/AirBnbSeattle2016ListingAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
+1. Dataset is retrieved from Kaggle for AirBNB 2016 properties listings in Seattle.
+2. Dashboard is built using Tableau Public.
+3. Created joins (Inner Join) on ID column between the tables using Tableau.
