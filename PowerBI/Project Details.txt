@@ -1,8 +1,0 @@
-1. Created a dashboard on data gathered through linked on Data Professional Survey.
-2. Data was cleaned using Power Query. 
-3. Visualizations build:
-	1. Gauge Chart
-	2. Donut Chart
-	3. Card
-	4. Stacked Column Chart
-	5. Stacked Bar Chart
