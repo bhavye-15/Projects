@@ -1,0 +1,9 @@
+1. Software used: Excel 2021, Microsoft SQL Server
+2. Dataset: Nasshville Housing data
+3. Data Cleaning that was performed:
+	a. Standardize DATE format
+	b. Populating NULL values in PropertyAddress
+	c. Breaking PropertyAddress and OwnerAddress into seperate columns (Address, City, State)
+	d. Replacing Y and N to Yes and No in SoldAsVacant Column
+	e. Remove Duplicates
+	f. Deleting unused columns
