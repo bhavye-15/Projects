@@ -1,0 +1,6 @@
+1. Software used are Micrsoft Excel 2021 and Microsoft SQL Server.
+2. Data is taken from: https://ourworldindata.org/covid-deaths 
+3. Date range of data is from 08-January-2020 - 09-August-2023
+4. Main Data is split into two different tables i.e. 
+	i. CovidDeaths
+	ii. CovidVaccine
