@@ -1,0 +1,5 @@
+1. This projects create visualization in Tableau using data from SQL server.
+2. Tableau file holds query used to create dataset on the basis of which visualizations are developed.
+3. Four tables are created using SQL query, the reason there are 4 different texcel files instead of one is beacause then you need a way to connect all the sheets using a common column, which I did not include in the tables.
+4. Visualizations created in tables using those 4 tables are: Text Tables, Bar Chart, Symbol Map and Lines Chart
+5. Technologies used are Excel, SSMS, SQL Server and Tableau.
