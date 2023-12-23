@@ -1,0 +1,5 @@
+Dashboard for Police Incidents in "City of Hartford".
+1. "AWS Quicksight" is used in order to visualize the dataset.
+2. "Calculated Fields" we created for better visualizations.
+3. Visualizations created were: Table, Heat Map and KPI.
+4. Dataset used is "Police Incident - URL: https://catalog.data.gov/dataset/police-incidents-01012005-to-current" from which we build visualization for 5 years i.e. 2006 to 2010.
